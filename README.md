@@ -26,6 +26,3 @@ Let's connect and build something awesome! 🚀
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SayyedSha&show_icons=true&theme=react)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayyedSha&layout=compact&theme=react)
-
-## 🔥 Contribution Graph
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SayyedSha&theme=react)](https://git.io/streak-stats)
