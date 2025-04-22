@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahanawaz Sayyed</h1>
 
+Welcome to my GitHub profile! I'm a passionate **Software Developer** with experience in **Node.js**, **React.js**, and **Python**. I’ve started a blog series of beginner-friendly projects, where I explore different concepts with hands-on coding. Let’s connect and build something awesome! 🚀
+
 ## 👨‍💻 About Me:
 - 🔭 I’m currently working on a **blog series** of mini projects for beginners.
 - 🌱 I’m diving deeper into **Data Analaysis with Python**.
