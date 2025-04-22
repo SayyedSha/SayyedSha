@@ -21,7 +21,7 @@ Let's connect and build something awesome! 🚀
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/shahanawaz-sayyed-5228211b3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahanawaz-sayyed-5228211b3)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SayyedSha&show_icons=true&theme=react)
