@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Shahanawaz Sayyed</h1>
 
 ## 🚀 About Me
 Welcome to my GitHub profile!  
@@ -24,8 +24,8 @@ Let's connect and build something awesome! 🚀
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/shahanawaz-sayyed-5228211b3)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
+![](https://github-readme-stats.vercel.app/api?username=SayyedSha&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayyedSha&layout=compact&theme=react)
 
 ## 🔥 Contribution Graph
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SayyedSha&theme=react)](https://git.io/streak-stats)
